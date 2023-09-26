@@ -1,6 +1,7 @@
 'use client';
 
-import { Button } from '../../components/atoms/button';
+import { Button } from '@/components/atoms/button';
+
 const Dashboard = () => (
   <>
     <p>Dashboard</p>
